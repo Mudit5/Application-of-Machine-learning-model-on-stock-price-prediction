@@ -1,4 +1,4 @@
-def binary_search(arr, x):
+def b_search(arr, x):
 	low = 0
 	high = len(arr) - 1
 	mid = 0
@@ -12,10 +12,10 @@ def binary_search(arr, x):
 			return mid
 	return -1
 
-arr = [ 2, 3, 4, 10, 40 ]
+arr = [ 7, 9, 10, 13, 19, 30]
 x = 10
-result = binary_search(arr, x)
+result = b_search(arr, x)
 if result != -1:
-	print("Element is present at index", str(result))
+	print("Element index = ", str(result))
 else:
-	print("Element is not present in array")
+	print("Element not in array")
