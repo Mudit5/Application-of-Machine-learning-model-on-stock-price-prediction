@@ -8,7 +8,7 @@ def b_search(arr, x):
 			low = mid + 1
 		elif arr[mid] > x:
 			high = mid - 1
-		else:
+		elif arr[mid] == x:
 			return mid
 	return -1
 
