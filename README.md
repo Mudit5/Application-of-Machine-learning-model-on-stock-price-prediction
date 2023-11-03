@@ -8,15 +8,15 @@ In the ever-changing landscape of financial markets, LSTM-based stock price pred
 
 
 
-The "Application of Machine learning model on stock price prediction" project aims to develop an advanced machine learning model that utilizes Long Short-Term Memory (LSTM) neural networks to predict the closing prices of stocks. Closing prices are a crucial indicator in financial markets, influencing investment decisions and strategies. This project seeks to harness the power of sequential data analysis to enhance the accuracy and reliability of short-term stock price predictions, catering to the needs of investors, traders, and financial analysts.
+The "_Application of Machine learning model on stock price prediction_" project aims to develop an advanced machine learning model that utilizes Long Short-Term Memory (LSTM) neural networks to predict the closing prices of stocks. Closing prices are a crucial indicator in financial markets, influencing investment decisions and strategies. This project seeks to harness the power of sequential data analysis to enhance the accuracy and reliability of short-term stock price predictions, catering to the needs of investors, traders, and financial analysts.
 
 
 Model Development: Design and implement an LSTM-based machine learning model capable of learning and predicting stock closing prices based on historical data.
 
-Data Preparation: Gather comprehensive historical stock price data, including features such as open prices, high prices, low prices, trading volume, and relevant market indicators. Preprocess the data to ensure its quality, completeness, and suitability for training the LSTM model.
+**Data Preparation**: Gather comprehensive historical stock price data, including features such as open prices, high prices, low prices, trading volume, and relevant market indicators. Preprocess the data to ensure its quality, completeness, and suitability for training the LSTM model.
   
-Feature Engineering: Engineer meaningful features from the raw data to capture relevant patterns and trends. Incorporate technical indicators, such as moving averages and relative strength index (RSI), along with sentiment analysis data if available.
+**Feature Engineering**: Engineer meaningful features from the raw data to capture relevant patterns and trends. Incorporate technical indicators, such as moving averages and relative strength index (RSI), along with sentiment analysis data if available.
  
-Training and Validation: Train the LSTM model on historical data, employing a time-series split validation strategy to assess its performance. Evaluate the model's accuracy using metrics like Root Mean Squared Error (RMSE).
+**Training and Validation**: Train the LSTM model on historical data, employing a time-series split validation strategy to assess its performance. Evaluate the model's accuracy using metrics like Root Mean Squared Error (RMSE).
  
-Interpretability and Insights: Analyze the LSTM model's predictions to gain insights into the driving factors behind the stock price movements it predicts. Identify scenarios where the model excels and where its predictions may be less reliable.
+**Interpretability and Insights**: Analyze the LSTM model's predictions to gain insights into the driving factors behind the stock price movements it predicts. Identify scenarios where the model excels and where its predictions may be less reliable.
