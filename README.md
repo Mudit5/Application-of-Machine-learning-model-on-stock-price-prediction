@@ -1,3 +1,5 @@
+# Application of Machine learning model on stock price prediction
+
 The relentless evolution of financial markets has spurred the exploration of innovative methods to predict stock prices, enabling informed decision-making for investors and traders. In this context, this abstract presents a concise overview of the application of Long Short-Term Memory (LSTM) neural networks in the realm of stock price prediction.
 
 The primary objective of this project is to design and evaluate a robust and accurate stock price prediction model by leveraging the power of Long Short-Term Memory (LSTM) neural networks. This project aims to harness the potential of advanced machine learning techniques to enhance the accuracy and reliability of short-term stock price predictions, contributing to more informed decision-making for investors and traders in the financial markets. Rigorous model evaluation techniques are discussed, shedding light on performance metrics such as Root Mean Squared Error (RMSE), and AIC.
